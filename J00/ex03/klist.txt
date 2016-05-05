@@ -1,0 +1,6 @@
+Credentials cache: API:1C21AA07-B6E4-41A6-A2C0-F9FBDFAE2898
+        Principal: aanzieu@42.FR
+
+  Issued                Expires               Principal
+Oct 13 18:02:28 2015  Oct 20 18:02:15 2015  krbtgt/42.FR@42.FR
+Oct 13 18:44:25 2015  Oct 20 18:02:15 2015  host/vogsphere-frontend-normal-1.42.fr@42.FR
